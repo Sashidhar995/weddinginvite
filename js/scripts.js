@@ -159,7 +159,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Sasi and Sahithi's Wedding",
+            title: "Sashidhar and Sahithi's Wedding",
 
             // Event start date
             start: new Date('Apr 15, 2022 20:46'),
@@ -169,7 +169,7 @@ $(document).ready(function () {
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            // end: new Date('Feb 11, 2022 7:30'),
+            end: new Date('Apr 16, 2022 00:00'),
 
             // Event Address
             address: 'Andhrakesari Kalakshetram (C.W.C-2), Sector-9, Steel Plant Township, Ukkunagaram, Visakhapatnam, 530032',
