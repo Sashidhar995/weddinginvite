@@ -1,5 +1,5 @@
 {
-  "name": "siva-manisha",
+  "name": "wedding-invite",
   "version": "1.0.1",
   "description": "A wedding website with loads of features.",
   "main": "npmfile.js",
@@ -13,7 +13,7 @@
     "template",
     "website template"
   ],
-  "author": "Siva Manisha",
+  "author": "",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",

@@ -159,23 +159,23 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Siva and Manisha's Wedding",
+            title: "Sasi and Sahithi's Wedding",
 
             // Event start date
-            start: new Date('Feb 10, 2022 18:30'),
+            start: new Date('Apr 15, 2022 20:46'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Feb 11, 2022 7:30'),
+            // end: new Date('Feb 11, 2022 7:30'),
 
             // Event Address
-            address: 'CM PALACE,MANAVALA NAGAR, THIRUVALLUR, TAMIL NADU',
+            address: 'Andhrakesari Kalakshetram (C.W.C-2), Sector-9, Steel Plant Township, Ukkunagaram, Visakhapatnam, 530032',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Siva Prasad at +91 8015615638."
+            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Sashidhar at +91 83094 22465."
         }
     });
 
